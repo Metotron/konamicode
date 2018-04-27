@@ -1,4 +1,4 @@
-function KonamiKode(callback) {
+function KonamiCode(callback) {
 	const code = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a']
 	let stage = 0, done = code.length 
 
